@@ -1,0 +1,63 @@
+<html>
+
+	<body>
+
+<div id="personal-details">
+	<p>Faith</p>
+	<p>07432670559</p>
+	<p>faith.kareber@hotmail.com<p>
+</div>
+
+
+
+<div id="bio">
+	<p>
+		Hardworking and reliable BSc (Hons) Computing graduate. An organised and committed worker who gives due attention to any task, big or small. A confident and a very able worker who can excel in a busy environment; especially enjoys being part of a team from experience working within a fast-paced restaurant. A capable person who is willing to learn new skills and adapt to various methods of working.
+	</p>
+
+	<p>
+		My passion for assisting others, outstanding customer service, excellent communication skills and problem solving makes me the perfect candidate for working within the IT field.
+	</p>
+</div>
+
+
+
+<div id="work-history">
+
+	<h3>Lola Events Staffing</h3>
+	<h4>Hostess</h4>
+	<p>2015-2016</p>
+			<p>
+				Duties include meeting, greeting and engaging with guests at prestigious client events and 5 star hotels. I have worked at a range of exceptional hotels and events some of which include; The Shard – Shangri-la Hotel, Marriot hotel, Grosvenor hotel, Rosewood hotel, Westminster Plaza hotel, Santander Investment banking event, Pride of Britain Awards and London Bierfest.
+
+				Hostessing has given me the greatest opportunity to meet and engage with high profile and high net-worth individuals who have given me exceptional advice into achieving my goals. 
+			</p>
+
+
+	<h3>Dialogue by Designer</h3>
+	<h4>Junior IT Project Officer</h4>
+	<p>2014-2015</p>
+			<p>
+					My role included working alongside senior members of staff to set up IT infrastructure to support project specific requirements. This often involves customising in-house application, websites, and databases on which our consultations are built. Projects worked on include: National Grid North West Coast Connections, Horizon Nuclear Power, NHS CHD and many more. Technologies used within this role include: SQL Server 2005, Microsoft Access and Visual Basic.
+			</p>
+
+
+
+	<h3>Mcdonalds</h3>
+	<h4>Crew member</h4>
+	<p>2012-2014</p>
+
+			<p>
+					Duties include serving customer on tills, cooking, cleaning the restaurant. Working here has taught me how to multitask effectively by setting personal hierarchy lists of tasks. The main skill which I learnt was how to communicate with variety of people on different levels to address the requirements and working under pressure.
+			</p>
+
+</div>
+
+<div id="education-history">
+	<h3>University of Greenwich</h3>
+	<h4>Bsc(Hons)Computing</h4>
+	<p>2012-2015</p>
+</div>
+
+</body>
+</html>

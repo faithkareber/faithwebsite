@@ -1,0 +1,48 @@
+<cv>
+
+<personal-details>
+	<name>Faith</name>
+	<phone>07432670559</phone>
+	<email>faith.kareber@hotmail.com<email>
+</personal-details>
+
+<bio>
+	Hardworking and reliable BSc (Hons) Computing graduate. An organised and committed worker who gives due attention to any task, big or small. A confident and a very able worker who can excel in a busy environment; especially enjoys being part of a team from experience working within a fast-paced restaurant. A capable person who is willing to learn new skills and adapt to various methods of working.
+
+	My passion for assisting others, outstanding customer service, excellent communication skills and problem solving makes me the perfect candidate for working within the IT field.
+</bio>
+
+<work-history>
+
+	<oganisation>Lola Events Staffing</organisation>
+	<role>Hostess</role>
+	<date>2015-2016</date>
+<role-description>
+	Duties include meeting, greeting and engaging with guests at prestigious client events and 5 star hotels. I have worked at a range of exceptional hotels and events some of which include; The Shard – Shangri-la Hotel, Marriot hotel, Grosvenor hotel, Rosewood hotel, Westminster Plaza hotel, Santander Investment banking event, Pride of Britain Awards and London Bierfest.
+
+	Hostessing has given me the greatest opportunity to meet and engage with high profile and high net-worth individuals who have given me exceptional advice into achieving my goals. 
+</role-description>
+
+
+<oganisation>Dialogue by Designer</organisation>
+	<role>Junior IT Project Officer</role>
+	<date>2014-2015</date>
+		<role-description>
+				My role included working alongside senior members of staff to set up IT infrastructure to support project specific requirements. This often involves customising in-house application, websites, and databases on which our consultations are built. Projects worked on include: National Grid North West Coast Connections, Horizon Nuclear Power, NHS CHD and many more. Technologies used within this role include: SQL Server 2005, Microsoft Access and Visual Basic.
+		</role-description>
+
+
+
+<oganisation>Mcdonalds</organisation>
+	<role>Crew member</role>
+	<date>2012-2014</date>
+
+</work-history>
+
+<education-history>
+	<uni-name>University of Greenwich</uni-name>
+	<course>Bsc(Hons)Computing</course>
+	<duration>2012-2015</duration>
+</education-history>
+
+</cv>
