@@ -1,6 +1,7 @@
 .cvcontainergrey
 {
-background-color: #e8e8e8;
+
+background-color: beige;
 display: block;
 
 }
@@ -59,3 +60,85 @@ li a {
 }
 
 
+#wrapper
+{
+width:1024px;
+height:768px;
+
+}
+
+#banner{
+width: 1024px;
+heiht: 220px;
+background-color: orange;
+
+}
+
+#menutop{
+width: 1024px;
+height: 35px;
+background-color: green;
+}
+
+#columnRight{
+width: 100px;
+height: 438px;
+background-color: yellow;
+float: right;
+}
+
+#columnLeft{
+width: 100px;
+height: 438px;
+/*background-color: red;*/
+float: left;
+}
+
+
+#content{
+width: 804px;
+margin-left:220px
+}
+
+#footer{
+width: 1024px;
+/*height: 75px;
+background-color: black;*/
+}
+
+.container-grey {
+    float: left;
+    background-color: #E9E4E2;
+    position: relative;
+    max-width: 100%;
+}	
+
+.left_of_img {
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 22px;
+    padding-bottom: 20px;
+    font-size: 1em;
+}
+
+.img-responsive, .thumbnail>img, .thumbnail a>img, .carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    display: initial;
+    max-width: 100%;
+    height: auto;
+}
+
+.rightBodyImage {
+    margin-top: -18px;
+    margin-bottom: 0px;
+    float: right;
+    clear: left;
+    display: block;
+    width: 270px;
+}
+
+.container-grey-small-content {
+    float: left;
+    background-color: #E9E4E2;
+    position: relative;
+    width: 1024px;
+}
