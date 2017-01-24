@@ -15,6 +15,7 @@ h1
 {
 	font-family: verdana;
 	font-size: 50px;
+    display: inline-block;
 }
 
 h3
@@ -142,3 +143,79 @@ background-color: black;*/
     position: relative;
     width: 1024px;
 }
+
+#bg {
+    float: left;
+    position: fixed;
+    top: -12%;
+    left: -50%;
+    width: 150%;
+    height: 250%;
+    background-image: url("C:\Users\Tech-H05\Desktop\sophieapple-85.jpg");
+}
+#bg img {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0; 
+  margin: auto; 
+  min-width: 50%;
+  min-height: 50%;
+}
+
+
+.relative{position:relative; width:600px;}
+.absolute-text{position:absolute; bottom:0; font-size:24px; font-family:"verdana";     right: -70%;
+    top: 80%;
+.absolute-text a{font-size:16px; color:#b92b27;}
+
+#content, html, body {
+    height: 98%;
+}
+
+
+#left {
+    float: left;
+    width: 50%;
+    height: 100%;
+    background: url("/project/sophieapple-85.jpg");
+    }
+
+#right {
+    float: right;
+    width: 50%;
+    background: blue;
+    height: 100%;
+    overflow: scroll;
+}
+
+/*classes from the advanced.css*/
+
+#article{
+    width:935px;
+    height:710px;
+    background-color: red;
+}
+
+.column1{
+    width:48%;
+    height: 710px;
+    padding-left: 130px;
+    float:left;
+}
+
+.column2{
+    width:20px;
+    
+    float:left;
+    padding-top: 30px;
+    
+    border:1px solid;
+
+
+}
+
+#photo{
+    width:48%;
+    }

@@ -1,0 +1,137 @@
+
+h1, p, body, html{
+	padding: 0px;
+	margin: 0px;
+}
+
+#left_column, #middle_column, #last_column{
+	width:296px;
+	background-color: red;
+	margin:20px;
+	padding:10px;
+	float:left;
+	border: 2px solid black;
+	border-radius: 5px;
+}
+
+#last_column{
+	width:574px;
+	float: left;
+
+	
+}
+
+#menu ul li{
+	display:inline-block;
+	margin: 5px;
+	
+}
+
+#menu ul li a{
+	text-decoration: none;
+}
+
+p {
+background-color: brown;
+}
+
+.clear {
+	clear:both;
+}
+
+#article{
+	width:935px;
+	height:710px;
+	background-color: red;
+}
+
+.column1{
+	width:48%;
+	height: 710px;
+	padding-left: 130px;
+	float:left;
+
+
+}
+
+.column2{
+	width:350px;
+	
+	float:left;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border:1px solid;
+
+
+}
+
+.footer{
+	width:935px;
+	height: 200px;
+	
+	display: inline;
+ 
+}
+
+
+
+#photo{
+	
+	text-align: center;
+	margin-top: 20px;
+}
+
+.clear{
+	clear:both;
+}
+
+.wimage{
+	text-align: center;
+	margin-top: 175px;
+}
+
+.wimage img {
+	width:135px;
+	height:40px;
+
+}
+
+h1{
+	
+}
+
+
+h2 {
+    font-size: 17px;
+    line-height: 20px;
+    margin: 0 40px 10px;
+    text-align: center;
+}
+
+#signup{
+    width: 296px;
+    background-color:blue;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#loginName{
+    width: 296px;
+    float: left;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+    

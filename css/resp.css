@@ -1,0 +1,41 @@
+#container {
+
+	width: 960px;
+	margin: 0 auto;
+	background-color: #5f5f5f;
+	padding: 20px;
+}
+
+#left-column, #right-column {
+
+	float: left;
+	width: 50%;
+	background-color: #efefef;
+	padding: 20px;
+}
+
+
+#left-column img {
+
+	width: 100%;
+}
+
+/*when the screen size goes to 960ixles then the width would shrink to 500px*/
+	
+@media screen and (max-width: 960px) {
+	
+	#container {
+
+	width: 100%;
+	}
+
+	#left-column, #right-column {
+
+		width: 100%;
+	}
+}
+
+.clear {
+		clear: both;
+
+}

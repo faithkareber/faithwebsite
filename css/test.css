@@ -1,0 +1,173 @@
+
+h1, p, body, html{
+	padding: 0px;
+	margin: 0px;
+}
+
+#left_column, #middle_column, #last_column{
+	width:296px;
+	background-color: red;
+	margin:20px;
+	padding:10px;
+	float:left;
+	border: 2px solid black;
+	border-radius: 5px;
+}
+
+#last_column{
+	width:574px;
+	float: left;
+
+	
+}
+
+#menu ul li{
+	display:inline-block;
+	margin: 5px;
+	
+}
+
+#menu ul li a{
+	text-decoration: none;
+}
+
+p
+{
+	font-family: verdana;
+}
+
+h1
+{
+	font-family: verdana;
+	font-size: 50px;
+    display: inline-block;
+}
+
+h3
+{
+	font-family: verdana;
+}
+
+h4
+{
+	font-family: verdana;
+}
+
+.clear {
+	clear:both;
+}
+
+#article{
+	width:935px;
+	height:710px;
+	background-color: red;
+}
+
+.column1{
+	width:48%;
+	height: 710px;
+	margin-top: -20px;
+	float:left;
+
+
+}
+
+.column2{
+	width:48%;
+	
+	float:left;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 10px;
+	margin-top: -10px
+
+}
+
+.footer{
+	width:935px;
+	height: 200px;
+	
+	display: inline;
+ 
+}
+
+
+
+#photo{
+	
+	text-align: center;
+	margin-top: 20px;
+}
+
+.clear{
+	clear:both;
+}
+
+.wimage{
+	text-align: center;
+	margin-top: 175px;
+}
+
+.wimage img {
+	width:135px;
+	height:40px;
+
+}
+
+h1{
+	
+}
+
+
+h2 {
+    font-size: 17px;
+    line-height: 20px;
+    margin: 0 40px 10px;
+    text-align: center;
+}
+
+#signup{
+    width: 296px;
+    background-color:blue;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#loginName{
+    width: 296px;
+    float: left;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.ulnavbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 10;
+    overflow: hidden;
+    background-color: white;
+}
+
+.linavbar {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: green;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+    
