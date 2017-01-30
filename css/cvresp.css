@@ -47,6 +47,26 @@ h1
     display: inline-block;
 }
 
+h1.textpic { 
+   position: absolute; 
+   top: 5px; 
+   left: 0; 
+   width: 100%; 
+   font-family: verdana;
+}
+
+
+
+h2.textpic{ 
+   position: absolute; 
+   top: 60px; 
+   right: 550px;
+   width: 100%; 
+   font-family: verdana;
+}
+
+
+
 h3
 {
 	font-family: verdana;
@@ -73,7 +93,7 @@ h4
 	/*margin-top: -20px;*/
 	float:left;
 	/*position: fixed;*/
-	background-image: url("sophieapple-85.jpg");
+	background-image: url("sophieapple-84.jpg");
 	overflow: hidden;
 }
 
