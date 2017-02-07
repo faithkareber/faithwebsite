@@ -28,16 +28,26 @@ body,html {
 #menu ul li{
 	display:inline-block;
 	margin: 5px;
+	font-family: comic sans-serif;
 	
 }
 
 #menu ul li a{
 	text-decoration: none;
+	font-family: comic sans-serif;
+}
+
+
+ul li{
+
+	font-family: comic sans-serif;
 }
 
 p
 {
-	font-family: verdana;
+	
+	line-height: 1.7;
+	font-family: comic sans-serif;
 }
 
 h1
@@ -69,12 +79,13 @@ h2.textpic{
 
 h3
 {
-	font-family: verdana;
+	font-family: comic sans-serif;
+	color: #9f1f2c;
 }
 
 h4
 {
-	font-family: verdana;
+	font-family: comic sans-serif;
 }
 
 .clear {
@@ -176,6 +187,7 @@ h2 {
     padding: 10;
     overflow: hidden;
     background-color: white;
+    font-family: comic sans-serif
 }
 
 .linavbar {
@@ -189,6 +201,68 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
+
+
+.imagetext{
+
+	position: absolute;
+    z-index: 100;
+    left: 40px;
+    top: 30px;
+
+}
+
+.imagetextName{
+
+	position: absolute;
+    z-index: 100;
+    left: 76px;
+    top: 53px;
+
+}
+
+
+.imagetextF{
+
+	position: absolute;
+    z-index: 100;
+    left: 40px;
+    top: 3px;
+    font-size: 100px;
+
+}
+
+
+
+.imagetextK{
+
+	position: absolute;
+    z-index: 100;
+    left: -6.1px;
+    top: 78px;
+    font-size: 100px;
+}
+
+.imagetextLName
+{
+    position: absolute;
+    z-index: 100;
+    left: 76px;
+    top: 99px;
+
+}
+
+.imagetextJC
+{
+    position: absolute;
+    z-index: 100;
+    left: 76px;
+    top: 158px;
+    font-size: 17.8PX;
+    -webkit-text-stroke: 0.5px #ffffff;
+    
+}
+
 
 
 /*responsive websit stuff*/
@@ -218,7 +292,6 @@ li a {
 		height: auto;
 	}
 }
-
 
 
 
